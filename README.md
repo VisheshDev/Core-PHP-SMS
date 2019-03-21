@@ -1,2 +1,2 @@
 # Core-PHP-SMS
-This project will be based on core PHP7.
+This SMS project will be based on core PHP7.
